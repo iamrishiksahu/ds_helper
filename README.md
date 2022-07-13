@@ -7,3 +7,4 @@
 ## Currently in this rep - 
 
 1. Linked list CRUD Operations Detailed.
+2. Linked List Generator
